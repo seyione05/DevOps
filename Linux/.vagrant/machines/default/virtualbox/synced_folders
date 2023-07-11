@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/scripts":{"guestpath":"/opt/scripts","hostpath":"F:/shellscripts","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"F:/Darey-io-Projects/Linux","disabled":false,"__vagrantfile":true}}}
