@@ -8,6 +8,15 @@ Download a copy of vagrant file into the project folder
  Vagrant is the command line utility for managing the lifecycle of virtual machines.
 Run vagrant up command 
 After successfully launch the Linux machine, log into the linux by using vagrant ssh optional (VMname) 
-Change the default vagrant user to root user by running this command
-sudo -i
 
+Basic Linux Command
+Change the default vagrant user to root user by running this command
+
+sudo -i
+![Alt text](http://github.com/seyineo5/DevOps/Linux/images/images/image.png)
+
+sudo apt upgrade
+![Alt text](http://github.com/seyineo5/DevOps/Linux/images/images/sudo-apt-upgrade.png)
+
+pwd command - show the current directory you're working on
+![Alt text](http://github.com/seyineo5/DevOps/Linux/images/pwd-command.png)
