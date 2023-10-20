@@ -13,10 +13,13 @@ Basic Linux Command
 Change the default vagrant user to root user by running this command
 
 sudo -i
-![Alt text](http://github.com/seyineo5/DevOps/Linux/images/images/image.png)
+
+<img src="images/image.png">
 
 sudo apt upgrade
-![Alt text](http://github.com/seyineo5/DevOps/Linux/images/images/sudo-apt-upgrade.png)
+
+<img src="images/sudo-apt-upgrade.png">
 
 pwd command - show the current directory you're working on
-![Alt text](http://github.com/seyineo5/DevOps/Linux/images/pwd-command.png)
+
+<img src="images/pwd-commad.png">
